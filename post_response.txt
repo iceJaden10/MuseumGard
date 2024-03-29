@@ -1,0 +1,110 @@
+1|#||4|3274|updatePanel|main_UpdatePanel3|
+            <input type="hidden" name="ctl00$main$hBtnSubmit" id="main_hBtnSubmit" />       
+            <div id="main_panelSubmit" style="display:none;">
+	
+                <div id="main_Panel4" class="titleGray500">
+		
+                    <table cellpadding="0" cellspacing="0" width="100%">
+                        <tr>
+                            <td class="popupHeaderLeft popupHeaderTile"><span id="main_lblDeleteHeader">Submit Booking</span></td>
+                            <td class="popupHeaderRight"></td>
+                        </tr>
+                    </table>
+                
+	</div>
+                <div id="main_Panel5" class="contentGray500">
+		
+                    <br />
+                    <table cellpadding="5" cellspacing="0" width="100%">
+                        <tr>
+                            <td class="popupContent" rowspan="6"><img id="main_Image1" src="../images/question_48.png" /></td>
+                        </tr>
+                        <tr>
+                            <td class="popupContent noLeftSpacing noBottomSpacing" colspan="2">Please confirm the following booking.</td>
+                        </tr>
+                        <tr>
+                            <td class="popupContent noLeftSpacing noBottomSpacing">Facility Type :</td>
+                            <td class="popupContent noLeftSpacing noBottomSpacing"><span id="main_lblSubmitType" style="display:inline-block;width:300px;">Study Room</span></td>
+                        </tr>
+                        <tr>
+                            <td class="popupContent noLeftSpacing noBottomSpacing">Facility :</td>
+                            <td class="popupContent noLeftSpacing noBottomSpacing"><span id="main_lblSubmitFacility" style="display:inline-block;width:300px;">Study Room 19</span></td>
+                        </tr>
+                        <tr>
+                            <td class="popupContent noLeftSpacing noBottomSpacing">Date :</td>
+                            <td class="popupContent noLeftSpacing noBottomSpacing"><span id="main_lblSubmitDate" style="display:inline-block;width:300px;">2024-03-30     (Sat)</span></td>
+                        </tr>
+                        <tr>
+                            <td class="popupContent noLeftSpacing noBottomSpacing">Session :</td>
+                            <td class="popupContent noLeftSpacing noBottomSpacing"><span id="main_lblSubmitSession" style="display:inline-block;width:300px;">23:00 - 23:30</span></td>
+                        </tr>
+                    </table>
+                    <br />                
+                    <div id="main_Panel7" style="text-align:center;">
+			
+                        <input type="submit" name="ctl00$main$btnSubmitYes" value="Yes" id="main_btnSubmitYes" class="button" style="width:80px;" />&nbsp;
+                        <input type="submit" name="ctl00$main$btnSubmitNo" value="No" id="main_btnSubmitNo" class="button" style="width:80px;" />
+                    
+		</div>                
+                    <br />                
+                
+	</div>            
+                <div id="main_Panel6" class="bottomGray500">
+
+	</div>       
+            
+</div>
+                      
+        |2367|updatePanel|main_upResult|
+            <input type="hidden" name="ctl00$main$hBtnResult" id="main_hBtnResult" />       
+            <div id="main_panelResult" style="display:none;">
+	
+                <div id="main_Panel2" class="titleGray500">
+		
+                    <table cellpadding="0" cellspacing="0">
+                        <tr>
+                            <td class="popupHeaderLeft popupHeaderTile"><span id="main_Label1">Booking Result</span></td>
+                            <td class="popupHeaderRight"></td>
+                        </tr>
+                    </table>
+                
+	</div>
+                <div id="main_Panel3" class="contentGray500">
+		
+                    <br />
+                    <table cellpadding="5" cellspacing="0" width="100%">
+                        <tr>
+                            <td class="popupContent" rowspan="2">
+                                <img id="main_imgResult" src="../images/yes_48.png" />
+                            </td>
+                        </tr>
+                        <tr>
+                            <td class="popupContent noLeftSpacing noBottomSpacing">
+                                <span id="main_lblResult" style="display:inline-block;width:400px;">Your Booking is successful. A booking acknowledgement will be sent to you by email.<br /><br />(Please note that only current students/staff and Graduands of Class 2023 <font color="red">are eligible </font> to use Chi Wah Learning Commons (CWLC) and its facilities. 
+<br /><br />
+If you are other types of library users, please remove the booking(s) of facilities in CWLC.)<br /><font color=red>[<b>Facility's Note:</b> Current students/staff and Graduands of Class 2022 and 2023 only]</font></span>
+                            </td>
+                        </tr>
+                    </table>
+                    <br />                
+                    <div id="main_Panel8" style="text-align:center;">
+			
+                        <input type="submit" name="ctl00$main$btnCloseResult" value="Close" id="main_btnCloseResult" class="button" style="width:80px;" />
+                    
+		</div>                
+                    <br />                
+                
+	</div>            
+                <div id="main_Panel9" class="bottomGray500">
+
+	</div>       
+            
+</div>
+                      
+        |0|hiddenField|__EVENTTARGET||0|hiddenField|__EVENTARGUMENT||0|hiddenField|__LASTFOCUS||6780|hiddenField|__VIEWSTATE|/wEPDwUKMTMxMDU3ODM0Nw9kFgJmD2QWAgIDD2QWCgIBDzwrAA0BDBQrAAQFCzA6MCwwOjEsMDoyFCsAAhYEHgRUZXh0BQ9GYWNpbGl0eSBTdGF0dXMeBVZhbHVlBQ5mYWNpbGl0eVN0YXR1cxQrAAQFCzA6MCwwOjEsMDoyFCsAAhYGHwAFDFZpZXcgQnkgRGF0ZR8BBRJmYWNpbGl0eVN0YXR1c0RhdGUeC05hdmlnYXRlVXJsBSB+L1NlY3VyZS9GYWNpbGl0eVN0YXR1c0RhdGUuYXNweGQUKwACFgYfAAUQVmlldyBCeSBGYWNpbGl0eR8BBRZmYWNpbGl0eVN0YXR1c0ZhY2lsaXR5HwIFJH4vU2VjdXJlL0ZhY2lsaXR5U3RhdHVzRmFjaWxpdHkuYXNweGQUKwACFgYfAAUPQWR2YW5jZWQgU2VhcmNoHwEFFWZhY2lsaXR5U3RhdHVzQWR2RGF0ZR8CBSN+L1NlY3VyZS9GYWNpbGl0eVN0YXR1c0FkdkRhdGUuYXNweGQUKwACFgYfAAULTmV3IEJvb2tpbmcfAQUKbmV3Qm9va2luZx8CBRh+L1NlY3VyZS9OZXdCb29raW5nLmFzcHhkFCsAAhYGHwAFEU15IEJvb2tpbmcgUmVjb3JkHwEFD215Qm9va2luZ1JlY29yZB8CBR1+L1NlY3VyZS9NeUJvb2tpbmdSZWNvcmQuYXNweGRkAgIPDxYCHwAFE01yIENoZXVuZyBDaGluZyBQYW5kZAIDDw8WAh8CBQ1+L0xvZ291dC5hc3B4ZGQCBA8PFgQfAgUMfi9Mb2dpbi5hc3B4HgdWaXNpYmxlaGRkAgUPZBYCAgMPZBYCZg9kFggCAQ9kFiRmDw8WAh8DaGQWAgIBD2QWAmYPDxYCHwAFE01yIENoZXVuZyBDaGluZyBQYW5kZAIBDw8WAh8DaGQWAgIBD2QWAmYPDxYCHwAFCjMwMzYxMDE3MjFkZAICDw8WAh8DaGQWAgIBD2QWAmYPDxYCHwAFE01yIENoZXVuZyBDaGluZyBQYW5kZAIDDw8WAh8DaGQWAgIBD2QWBGYPDxYCHwAFDC1FbmdpbmVlcmluZ2RkAgEPDxYCHwAFDC1FbmdpbmVlcmluZ2RkAgQPDxYCHwNoZBYCAgEPZBYEZg8PFgIfAAUvQmFjaGVsb3Igb2YgRW5n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eW91IGFyZSBvdGhlciB0eXBlcyBvZiBsaWJyYXJ5IHVzZXJzLCBwbGVhc2UgcmVtb3ZlIHRoZSBib29raW5nKHMpIG9mIGZhY2lsaXRpZXMgaW4gQ1dMQy4pPGJyIC8+PGZvbnQgY29sb3I9cmVkPls8Yj5GYWNpbGl0eSdzIE5vdGU6PC9iPiBDdXJyZW50IHN0dWRlbnRzL3N0YWZmIGFuZCBHcmFkdWFuZHMgb2YgQ2xhc3MgMjAyMiBhbmQgMjAyMyBvbmx5XTwvZm9udD5kZBgBBR5fX0NvbnRyb2xzUmVxdWlyZVBvc3RCYWNrS2V5X18WLQUYY3RsMDAkbWFpbiRsaXN0U2Vzc2lvbiQwBRhjdGwwMCRtYWluJGxpc3RTZXNzaW9uJDEFGGN0bDAwJG1haW4kbGlzdFNlc3Npb24kMgUYY3RsMDAkbWFpbiRsaXN0U2Vzc2lvbiQzBRhjdGwwMCRtYWluJGxpc3RTZXNzaW9uJDQFGGN0bDAwJG1haW4kbGlzdFNlc3Npb24kNQUYY3RsMDAkbWFpbiRsaXN0U2Vzc2lvbiQ2BRhjdGwwMCRtYWluJGxpc3RTZXNzaW9uJDcFGGN0bDAwJG1haW4kbGlzdFNlc3Npb24kOAUYY3RsMDAkbWFpbiRsaXN0U2Vzc2lvbiQ5BRljdGwwMCRtYWluJGxpc3RTZXNzaW9uJDEwBRljdGwwMCRtYWluJGxpc3RTZXNzaW9uJDExBRljdGwwMCRtYWluJGxpc3RTZXNzaW9uJDEyBRljdGwwMCRtYWluJGxpc3RTZXNzaW9uJDEzBRljdGwwMCRtYWluJGxpc3RTZXNzaW9uJDE0BRljdGwwMCRtYWluJGxpc3RTZXNzaW9uJDE1BRljdGwwMCRtYWluJGxpc3RTZXNzaW9uJDE2BRljdGwwMCRtYWluJGxpc3RTZXNzaW9uJDE3BRljdGwwMCRtYWluJGxpc3RTZXNzaW9uJDE4BRljdGwwMCRtYWluJGxpc3RTZXNzaW9uJDE5BRljdGwwMCRtYWluJGxpc3RTZXNzaW9uJDIwBRljdGwwMCRtYWluJGxpc3RTZXNzaW9uJDIxBRljdGwwMCRtYWluJGxpc3RTZXNzaW9uJDIyBRljdGwwMCRtYWluJGxpc3RTZXNzaW9uJDIzBRljdGwwMCRtYWluJGxpc3RTZXNzaW9uJDI0BRljdGwwMCRtYWluJGxpc3RTZXNzaW9uJDI1BRljdGwwMCRtYWluJGxpc3RTZXNzaW9uJDI2BRljdGwwMCRtYWluJGxpc3RTZXNzaW9uJDI3BRljdGwwMCRtYWluJGxpc3RTZXNzaW9uJDI4BRljdGwwMCRtYWluJGxpc3RTZXNzaW9uJDI5BRljdGwwMCRtYWluJGxpc3RTZXNzaW9uJDMwBRljdGwwMCRtYWluJGxpc3RTZXNzaW9uJDMxBRljdGwwMCRtYWluJGxpc3RTZXNzaW9uJDMyBRljdGwwMCRtYWluJGxpc3RTZXNzaW9uJDMzBRljdGwwMCRtYWluJGxpc3RTZXNzaW9uJDM0BRljdGwwMCRtYWluJGxpc3RTZXNzaW9uJDM1BRljdGwwMCRtYWluJGxpc3RTZXNzaW9uJDM2BRljdGwwMCRtYWluJGxpc3RTZXNzaW9uJDM3BRljdGwwMCRtYWluJGxpc3RTZXNzaW9uJDM4BRljdGwwMCRtYWluJGxpc3RTZXNzaW9uJDM5BRljdGwwMCRtYWluJGxpc3RTZXNzaW9uJDQwBRljdGwwMCRtYWluJGxpc3RTZXNzaW9uJDQxBRljdGwwMCRtYWluJGxpc3RTZXNzaW9uJDQyBRljdGwwMCRtYWluJGxpc3RTZXNzaW9uJDQzBRljdGwwMCRtYWluJGxpc3RTZXNzaW9uJDQziUQV3oOP71YX9nX29rds8wHPRnBRZx3Jbt0LWjJ6/04=|8|hiddenField|__VIEWSTATEGENERATOR|95365AFE|1864|hiddenField|__EVENTVALIDATION|/wEdAFUk7uBNqtA0pJ0i8MlEMGwzSJ8lT1Xi3zTqUNh87x62qurfZlM8s5gqJMiJOiCeRcp2JB2iXJ5bMBNzlJ8jgwlHWQMxgIN2VDgHPxlWQIB6NDAZY8h96pirgHsBsJYvNKJL1tNhEPVnJLrfowjLtmA8DIvF/Ko2Imy0gD7YGlvUPtgsbxfDRTjVdfz4hf35+aL5OCutHpGSTDunBpJAy8Kv1431dIn1ZVzIngeIe6Vg/FTp4LdkP1/llyNfXIfCrIGlCyJZg9mK7kgR8rCWmB3DtXtBoM5chf+kCsZJuiqZjQ1tR+D95g/yuEDGcbThbuBep+boZtJML1y2PC4M+/mieTYjuelcK3Zha9WQL4XL+QEJpBKgO0+ArelpupYjnCcE9D3Yd0IrhZwJMZenIvdnYis4mBBbzr6q/xiava5KX44XHte+U7Zn/fp0fmpemnX3k26j4lIacOXqH3oXXHj1r98+EaeBgchS3kFp+vQFp2ZCq4Y5Dz5BybkZkbzkzk8mUiB43W9EPLl+EImFEBcpqB8f0Md+UHOeeLEfYluuoE93F8m2DJtxhBg6jf8eneid+pUnGt/eeRiTVfK8IjyedluQcaYL/OO9H5GYlQdJYirN+SHeb5by/700n5zLtmCSDufurpedFtIeQ+9Mfa0Pl14cM3u5I5cp1XHHJUIKKeB77sb+C6kvjxKN62RGgIGQ8a65K3aYB3O/b0bkDufdYIqa+iiLYZlWtbTlkRggYDhix4iLpr+N3zBcQmsuHgvPz7+WeL0zRzWngP4mcklcaaCTw/Z7aqSYmXOe5xZcNV29D/E1lNeho6PWmVZ4golWqgQQkpXeNm6a+XqhPGppQlzcNuY+FapCK2Hn0H89N0hpfkyjP5f1CHxkj/hj5txmu+ot5tFoGLprQcyFyEBdWFZY8VmwW3SaezT+vcXMUrgQOv+HX92OmVSMai3pLg/uBJczdv+oP5RyUVuq+FdGKHdXAZ1hk+Sj8d77QysDrftNDpk0ue++3+6yypjWke5+me0p/DoM2botSSJTAGFIV5By0306pSQc+UVvWw3OoEcMsE9b9HLWpmsiEK094ecPSOJ+AZHC4p9cHaDItTS3fj8RypWTOgJgKEveZEot03SD0uhYpy8kHb7/XIs1WLYRoHzJs9PV8khfD0k0eLx5iDX9Qom1ifcGqSZnxj53fqwyWIfjbDyrHjZxUyOzSgHblMTheQQxFZ/286xZ2bVV1LgW9svg3U3f0QB95u03ujcyaI9kL/9rOAWNV2fFJwHIEfQNCEe1iTcExK5+Uly+q/hbovbbIQri9kFZu7JN8ofVzz0V88GNE+sjKG7+YYb9nQqecL+eVzHQsg7pxD3dGRHXccexS+0oyTrBFCfi6Zh38B+7yTW2nVTCEf0F7vlgd0rEHYriXhixfs6oyv/KAlgJuUXogCoXGi54Q6tjZ+5Ynxd+XjKWbRGuX2mRG1qM6pdnWSWKeylyHSDCHePcuJh+uC0ou0o/LBzhyvRwpCkXFtu5QDPANuPtil2o4PD1X0cGii9jVmrglBveEfyco0Z6n3sn4itffQjTc05sWrvIq/N+sLWdQBb6XaW9BbHdT7UdpgPDr1HkR82jJzwKRAEIDxsJCM9MkLNUn+gV/zvqKVq5UVeGq1qgLx1N0x1TV1xiRt01BdjOrzeDlu4CE4KfU3Q6nnx75HZXQu0BRe243HjInjbPx9IbUFtin3KkNikjjWNtSkWKxBe50c3x/f0k2JYV6HPIeD6/2yp8iTX54LH1QtPYUwjy1UeXqGcQhq3dFnurB4GtK/n4o27OqPHLvZkG99cv0dxYxHRNtovbzhCEusmRVWWAoQVrvMo=|0|asyncPostBackControlIDs|||0|postBackControlIDs|||141|updatePanelIDs||tctl00$main$upMain,main_upMain,tctl00$main$UpdatePanel3,main_UpdatePanel3,tctl00$main$upEmail,main_upEmail,tctl00$main$upResult,main_upResult|0|childUpdatePanelIDs|||75|panelsToRefreshIDs||ctl00$main$UpdatePanel3,main_UpdatePanel3,ctl00$main$upResult,main_upResult|2|asyncPostBackTimeout||90|80|formAction||./NewBooking.aspx?library=5&ftype=29&facility=275&date=20240330&session=23002330|37|pageTitle||HKU Library Facilities Booking System|4|dataItem|main_hBtnResult|show|184|scriptBlock|ScriptPath|/ScriptResource.axd?d=lQlm76Nsfx8TLsxa9tCjB1KCw-OBzwZEpWnSZ6gnJ91K3MkyWVzIcG5ZsYFRAJ6N2XvxinmV6xpFsz9gNfBB-OaJeCnhgqTKSReoDXnRO1oNjioWBuu2FQitOiqrVHICXEwlBVeN8xFBmoN64WBi1A2&t=50632777|106|scriptBlock|ScriptPath|/Secure/NewBooking.aspx?_TSM_HiddenField_=main_ToolkitScriptManager1_HiddenField&_TSM_CombinedScripts_=%3b|317|scriptStartupBlock|ScriptContentNoTags|Sys.Application.add_init(function() {
+    $create(Sys.Extended.UI.ModalPopupBehavior, {"BackgroundCssClass":"modalBackground","CancelControlID":"main_btnSubmitNo","PopupControlID":"main_panelSubmit","dynamicServicePath":"/Secure/NewBooking.aspx","id":"main_popupSubmit"}, null, null, $get("main_hBtnSubmit"));
+});
+|280|scriptStartupBlock|ScriptContentNoTags|Sys.Application.add_init(function() {
+    $create(Sys.Extended.UI.ModalPopupBehavior, {"BackgroundCssClass":"modalBackground","PopupControlID":"main_panelResult","dynamicServicePath":"/Secure/NewBooking.aspx","id":"main_popupResult"}, null, null, $get("main_hBtnResult"));
+});
+|

@@ -1,0 +1,34 @@
+{
+    "ronaldo": "siuuuuuuu",
+    "messi": "goat",
+    "thread_number": 1,
+    "debug": true,
+    "debug_sleep_time": 3,
+    "users": [
+        {
+            "username": "u3610172",
+            "password": "Jayden0705",
+            "room": "19",
+            "session": "19001930",
+            "session_num": 4,
+            "is_active": true
+        },
+        {
+            "username": "u3610172",
+            "password": "Jayden0705",
+            "room": "19",
+            "session": "21002130",
+            "session_num": 4,
+            "is_active": true
+        },
+        {
+            "username": "u3610172",
+            "password": "Jayden0705",
+            "room": "19",
+            "session": "23002330",
+            "session_num": 4,
+            "is_active": true
+        }
+    ]
+
+}

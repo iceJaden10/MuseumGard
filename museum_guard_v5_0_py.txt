@@ -1,0 +1,16 @@
+welcome to Museum Guard!
+current mode: debuglogin(username, password, _all_cookies) is executed at 2024-03-29 00:09:07.263321
+prep_data(resp) is executed at 2024-03-29 00:09:07.355650
+booking_specific_data(date, room, session, number_of_session=4) is executed at 2024-03-29 00:09:07.823766
+login(username, password, _all_cookies) is executed at 2024-03-29 00:09:07.823819
+prep_data(resp) is executed at 2024-03-29 00:09:07.911792
+booking_specific_data(date, room, session, number_of_session=4) is executed at 2024-03-29 00:09:08.324827
+login(username, password, _all_cookies) is executed at 2024-03-29 00:09:08.324909
+prep_data(resp) is executed at 2024-03-29 00:09:08.421673
+booking_specific_data(date, room, session, number_of_session=4) is executed at 2024-03-29 00:09:08.821427
+getter() is executed at 2024-03-29 00:09:11.827589, finished at 2024-03-29 00:09:16.829604
+getter() is executed at 2024-03-29 00:09:11.826871, finished at 2024-03-29 00:09:16.980814
+getter() is executed at 2024-03-29 00:09:11.827948, finished at 2024-03-29 00:09:18.139924
+post start at 2024-03-29 00:09:16.889828, finished at 2024-03-29 00:09:20.786944
+post start at 2024-03-29 00:09:17.002850, finished at 2024-03-29 00:09:22.098537
+post start at 2024-03-29 00:09:18.162992, finished at 2024-03-29 00:09:23.184473

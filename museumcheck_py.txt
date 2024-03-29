@@ -1,0 +1,6 @@
+welcome to Museum Guard!
+current mode: debuglogin(username, password, _all_cookies) is executed at 2024-03-17 13:41:40.429218
+prep_data(resp) is executed at 2024-03-17 13:41:40.830345
+booking_specific_data(date, room, session, number_of_session=4) is executed at 2024-03-17 13:41:41.759811
+getter() is executed at 2024-03-17 13:41:44.765067, finished at 2024-03-17 13:41:48.092832
+post start at 2024-03-17 13:41:48.149727, finished at 2024-03-17 13:41:48.202204
